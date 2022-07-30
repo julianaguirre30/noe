@@ -14640,7 +14640,7 @@ html[class*="ie"] .dtp-hour-hand {
   background-image: url(https://www.centrosideal.com/wp-content/uploads/2021/12/reafirmante-4.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: 100%;
   background-attachment: fixed;
   
 
@@ -14650,7 +14650,7 @@ html[class*="ie"] .dtp-hour-hand {
   background-image: url(https://www.integramedica.cl/integramedica/site/artic/20210624/imag/foto_0000000620210624162640.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: 100%;
   background-attachment: fixed;
   
 
